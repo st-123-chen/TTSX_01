@@ -1,6 +1,6 @@
 # TTSX_01
 天天生鲜项目练习
-对天天生鲜网站（http://www.chengshuwangluo.com/）进行功能复制
+对天天生鲜网站进行功能复制http://www.chengshuwangluo.com/
 
 #安装celery处理异步任务，window不支持4.0版本celery，选择安装3.1.25版本celery，同时降低redis版本
 
@@ -12,6 +12,6 @@
 
 
 #选择支付宝作为支付手段，支付宝官方sdk需安装pycrypto，但安装pycrypto出错，经查询pycrypto已停止维护，
-选择非官方的支付宝 sdk(https://github.com/alipay/alipay-sdk-python-all.git）
+选择非官方的支付宝 sdk(https://github.com/alipay/alipay-sdk-python-all.git
 
 
