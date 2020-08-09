@@ -1,6 +1,5 @@
-# TTSX_01
-天天生鲜项目练习
-对天天生鲜网站进行功能复制http://www.chengshuwangluo.com/
+# TTSX_电商项目练习
+
 
 #安装celery处理异步任务，window不支持4.0版本celery，选择安装3.1.25版本celery，同时降低redis版本
 
